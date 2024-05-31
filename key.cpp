@@ -1,31 +1,12 @@
 /* key.cpp -------
  *
  * Filename: key.cpp
- * Description:
- * Author: Adeel Bhutta
- * Maintainer:
- * Created: Sun Sep 13 20:29:30 2022
- * Last-Updated: September 13 22:39 2022
- *
- */
-
-/* Commentary:
- *
- *
- *
- */
-
-/* Change log:
- *
- *
- */
-
-/* Copyright (c) 2022 Adeel Bhutta
- *
- * All rights reserved.
- *
- * Additional copyrights may follow
- */
+ * Author: Anya Trubelja
+*
+* Created: Sep 12 13:16:12 2022
+* Last-Updated: June 01 01:35 2024
+*
+*/
 
 #include <ncurses.h>
 #include <cstdlib>

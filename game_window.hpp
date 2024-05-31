@@ -1,35 +1,12 @@
 /* game_windows.hpp ---------
  *
  * Filename: game_window.hpp
- * Description:
- * Author: Adeel Bhutta
- * Maintainer:
- * Created: Tue Sep  6 14:10:53 2022
- * Last-Updated: June 4 11:00 2022
- * Keywords:
- * Compatibility:
- *
- */
-
-/* Commentary:
- * added void display_welcome_screen()
- *
- *
- */
-
-/* Change log:
- *
- *
- */
-
-/* Copyright (c) 2022 Adeel Bhutta
- *
- * All rights reserved.
- *
- * Additional copyrights may follow
- */
-
-/* Code: */
+ * Author: Anya Trubelja
+*
+* Created: Sep 12 13:16:12 2022
+* Last-Updated: June 01 01:35 2024
+*
+*/
 
 #define WELL_WIDTH 50
 #define WELL_HEIGHT 25

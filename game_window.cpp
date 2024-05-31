@@ -1,35 +1,12 @@
 /* game_window.cpp -------
  *
  * Filename: game_window.cpp
- * Description:
- * Author: Adeel Bhutta
- * Maintainer:
- * Created: Tue Sep  6 14:10:06 2022
- * Last-Updated: June 4 11:00 2022
- * Keywords:
- * Compatibility:
- *
- */
-
-/* Commentary:
- *
- *
- *
- */
-
-/* Change log:
- * added void display_welcome_screen()
- *
- */
-
-/* Copyright (c) 2022 Adeel Bhutta
- *
- * All rights reserved.
- *
- * Additional copyrights may follow
- */
-
-/* Code: */
+ * Author: Anya Trubelja
+*
+* Created: Sep 12 13:16:12 2022
+* Last-Updated: June 01 01:35 2024
+*
+*/
 
 #include <iostream>
 #include <cstdlib>

@@ -1,30 +1,11 @@
 /*food.hpp -------
 *
 * Filename: food.hpp
-* Description:
-* Author: Adeel Bhutta
-* Maintainer:
-* Created: Sat Sep 12 13:21:55 2022
-* Last-Updated: September 12 16:01 2022
+* Author: Anya Trubelja
 *
-*/
-
-/* Commentary:
+* Created: Sep 12 13:16:12 2022
+* Last-Updated: June 01 01:35 2024
 *
-*
-*
-*/
-
-/* Change log:
-*
-*
-*/
-
-/*Copyright (c) 2022 Adeel Bhutta
-*
-* All rights reserved.
-*
-* Additional copyrights may follow
 */
 
 #include <ncurses.h>

@@ -1,3 +1,13 @@
+/* obstacle.cpp -------
+ *
+ * Filename: obstacle.cpp
+ * Author: Anya Trubelja
+*
+* Created: Sep 12 13:16:12 2022
+* Last-Updated: June 01 01:35 2024
+*
+*/
+
 #include "obstacle.hpp"
 #include <cstdlib>
 #include <ncurses.h>
