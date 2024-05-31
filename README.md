@@ -26,7 +26,7 @@ Here you should include screenshots of your game. Place them in your repository 
 ![Gameplay](screenshots/gameplay.png)
 *Gameplay with the snake moving and eating food*
 
-![Scoreboard Screen](screenshots/scoreboard.png)
+![Scoreboard Screen](screenshots/Scoreboard.png)
 *Scoreboard*
 
 
