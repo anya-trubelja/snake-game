@@ -15,16 +15,16 @@ OBJ = $(patsubst %,$(ODIR)/%,$(_OBJ))
 $(ODIR)/%.o: %.cpp $(DEPS)
 	$(CC) -c -o $@ $< $(CFLAGS)
 
-all: snake_game
+all: game
 
-snake_game: $(OBJ)
+game: $(OBJ)
 	$(CC) -o $@ $^ $(CFLAGS) $(LIBS)
 
 .PHONY: clean
 
 clean:
 	rm -f *~ core $(INCDIR)/*~ 
-	rm -f  snake_game
+	rm -f game
 	rm -f *.o
 
 etags: 
